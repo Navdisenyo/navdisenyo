@@ -1,4 +1,4 @@
-import InfiniteLogoScroll from '@/components/infinite-logo-scroll'
+// import InfiniteLogoScroll from '@/components/infinite-logo-scroll'
 import Image from 'next/image';
 
 export const LogoTicker = () => {
