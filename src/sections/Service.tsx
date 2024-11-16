@@ -1,5 +1,5 @@
 import React from 'react'
-import ServiceBoxes from "@/components/ServiceBoxes"
+// import ServiceBoxes from "@/components/ServiceBoxes"
 
 export const Services = () => {
     return (
