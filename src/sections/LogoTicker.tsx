@@ -1,4 +1,4 @@
-// import InfiniteLogoScroll from '@/components/infinite-logo-scroll'
+import InfiniteLogoScroll from '@/components/infinite-logo-scroll'
 import Image from 'next/image';
 
 export const LogoTicker = () => {
@@ -15,7 +15,7 @@ export const LogoTicker = () => {
       <div className="container">
         <div className='flex overflow-hidden [mask-image:linear-gradient(to_right,transparent,black,transparent)]'>
           <div className='flex gap-10 flex-none'>
-             {/* <InfiniteLogoScroll logos={logos} speed={20} /> */}
+            <InfiniteLogoScroll logos={logos} speed={20} />
           </div>
         </div>
       </div>
