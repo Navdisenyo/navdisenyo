@@ -13,7 +13,7 @@ export const Services = () => {
             <p className='text-center text-[16px] leading-[30px] tracking-tight text-[#0a0a0a] mt-5'>We provide comprehensive solutions including SaaS, Trading Bot & crypto-exchange development. Additionally, we offer expert Digital Marketing services to help grow your business to the next level.</p>
           </div>
           <div className='relative'>
-            <ServiceBoxes />
+           {/* <ServiceBoxes /> */}
           </div>
    
         </div>
